@@ -1,0 +1,11 @@
+.btn-brown{
+	background-color: #624A21;
+	padding:10px 20px ;
+	border-radius:4px ;
+	color: white ;
+	font-weight:Bold ;
+	font-family: Montserrat ;
+}
+a :hover{
+	color:  #5484b4;
+}
